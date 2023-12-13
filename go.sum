@@ -8,6 +8,8 @@ github.com/kruspe/aoc-utils v1.0.1 h1:qWMPQNRzfqk40oOpzn+vKzE3WoGZuoVIns6u7G6WRH
 github.com/kruspe/aoc-utils v1.0.1/go.mod h1:MmE5p2A1MMGiGQYuEZFINaSXI990jE1xXrn0+FFJBmw=
 github.com/kruspe/aoc-utils v1.1.0 h1:GHRPr1CMsE1qmzO2kDKuz01yGb3FGhaGq6lPBv+vBMY=
 github.com/kruspe/aoc-utils v1.1.0/go.mod h1:MmE5p2A1MMGiGQYuEZFINaSXI990jE1xXrn0+FFJBmw=
+github.com/kruspe/aoc-utils v1.1.1 h1:bIo6Dy3CeW5jPojBrUT5lXOFAZdtAmNdmrwSMmfa8ak=
+github.com/kruspe/aoc-utils v1.1.1/go.mod h1:MmE5p2A1MMGiGQYuEZFINaSXI990jE1xXrn0+FFJBmw=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
