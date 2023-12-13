@@ -10,8 +10,8 @@ import (
 )
 
 func main() {
-	sample := newSolver(aoc_utils.Pad2dArray(aoc_utils.ReadInput("03/example.txt"), "."))
-	data := newSolver(aoc_utils.Pad2dArray(aoc_utils.ReadInput("03/data.txt"), "."))
+	sample := newSolver(aoc_utils.PadStringArray(aoc_utils.ReadInput("03/example.txt"), "."))
+	data := newSolver(aoc_utils.PadStringArray(aoc_utils.ReadInput("03/data.txt"), "."))
 
 	fmt.Printf("Solution 1: %d\n", sample.solve1())
 	fmt.Printf("Solution 2: %d\n", sample.solve2())
